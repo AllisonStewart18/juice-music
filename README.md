@@ -1,4 +1,6 @@
-🔥🔥🔥 ## juice-music
+🔥🔥🔥 juice-music
+
+<img src="https://github.com/AllisonStewart18/juice-music/blob/main/jm.png"/>
 
 ___
 
@@ -11,6 +13,8 @@ ___
 ___
 
 +  *MP3 Juice provides users with the convenience of streaming music online or downloading it for offline enjoyment. Users can preview songs before downloading and select their preferred audio quality for the download, catering to those with varying preferences for sound quality*
+
+<img src="https://github.com/AllisonStewart18/juice-music/blob/main/dl.png"/>
 
 <div id="badges">
   <a href="your-linkedin-URL">
